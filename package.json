@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-js-giphy-pr",
+  "version": "1.0.0",
+  "description": "Custom GitHub Actions (JS-based) for posting Giphy GIF as part of PR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
